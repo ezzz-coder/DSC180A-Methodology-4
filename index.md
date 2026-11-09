@@ -1,8 +1,12 @@
+---
+title: DSC 180A Methodology Assignment 4
+---
+
 ## About Me
 
 **Name:** Edward Zhang
 
-**Email:** [edz001@ucsd.edu](mailto:edz001L@ucsd.edu)
+**Email:** [edz001@ucsd.edu](mailto:edz001@ucsd.edu)
 
 **Section:** D38
 
